@@ -1,0 +1,3 @@
+[framework] 2019-02-13 13:56:36,797 - com.lzz.log4jTest.TestLog4j -4    [main] ERROR com.lzz.log4jTest.TestLog4j  - 这是error
+[framework] 2019-02-13 14:21:13,857 - com.lzz.log4jTest.TestLog4j -4    [main] ERROR com.lzz.log4jTest.TestLog4j  - 这是error
+[framework] 2019-02-13 14:28:56,316 - com.lzz.log4jTest.TestLog4j -4    [main] ERROR com.lzz.log4jTest.TestLog4j  - 这是error

@@ -1,0 +1,3 @@
+2019-02-13 14:29:12,889 INFO main [com.lzz.driver.SeleniumDrive]info(line:34)打开网站https://www.baidu.com/
+2019-02-13 14:29:13,072 INFO main [com.lzz.driver.SeleniumDrive]info(line:34)输入文本：测试
+2019-02-13 14:29:13,185 INFO main [com.lzz.driver.SeleniumDrive]info(line:34)点击By.id: su
