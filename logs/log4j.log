@@ -1,3 +1,8 @@
 2019-02-13 14:29:12,889 INFO main [com.lzz.driver.SeleniumDrive]info(line:34)打开网站https://www.baidu.com/
 2019-02-13 14:29:13,072 INFO main [com.lzz.driver.SeleniumDrive]info(line:34)输入文本：测试
 2019-02-13 14:29:13,185 INFO main [com.lzz.driver.SeleniumDrive]info(line:34)点击By.id: su
+2019-02-13 15:33:24,761 INFO main [com.lzz.actions.Actions]info(line:34)75659.86124414696
+2019-02-13 15:35:19,851 INFO main [com.lzz.actions.Actions]info(line:34)随机数为0.0
+2019-02-13 15:36:14,908 INFO main [com.lzz.actions.Actions]info(line:34)随机数为38473
+2019-02-13 16:30:42,968 INFO main [com.lzz.actions.Actions]info(line:34)随机数为16
+2019-02-13 16:46:45,668 INFO main [com.lzz.actions.Actions]info(line:34)随机数为38p1R
