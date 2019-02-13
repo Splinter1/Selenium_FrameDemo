@@ -1,5 +1,6 @@
 package com.lzz.driver;
 
+import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
@@ -29,5 +30,12 @@ public class SeleniumDrive {
         driver.quit();
     }
 
+    public static void get(String url) throws Exception{
+        if(url.startsWith("http")){
+            driver.get(url);
+        }else {
+            throw new Exception("请输入正确的URL地址");
+        }
+    }
 
 }
