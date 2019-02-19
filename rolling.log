@@ -1,3 +1,9 @@
 [framework] 2019-02-13 13:56:36,797 - com.lzz.log4jTest.TestLog4j -4    [main] ERROR com.lzz.log4jTest.TestLog4j  - 这是error
 [framework] 2019-02-13 14:21:13,857 - com.lzz.log4jTest.TestLog4j -4    [main] ERROR com.lzz.log4jTest.TestLog4j  - 这是error
 [framework] 2019-02-13 14:28:56,316 - com.lzz.log4jTest.TestLog4j -4    [main] ERROR com.lzz.log4jTest.TestLog4j  - 这是error
+[framework] 2019-02-18 12:00:15,549 - com.lzz.driver.SeleniumDrive -325  [main] ERROR com.lzz.driver.SeleniumDrive  - 截图失败！！
+[framework] 2019-02-18 12:32:35,853 - com.lzz.driver.SeleniumDrive -332  [main] ERROR com.lzz.driver.SeleniumDrive  - 截图失败！！
+[framework] 2019-02-18 12:34:22,611 - com.lzz.driver.SeleniumDrive -326  [main] ERROR com.lzz.driver.SeleniumDrive  - 截图失败！！
+[framework] 2019-02-18 13:18:30,604 - com.lzz.driver.SeleniumDrive -335  [main] ERROR com.lzz.driver.SeleniumDrive  - 截图失败！！
+[framework] 2019-02-18 13:20:58,307 - com.lzz.driver.SeleniumDrive -447  [main] ERROR com.lzz.driver.SeleniumDrive  - 截图失败！！
+[framework] 2019-02-18 13:28:50,743 - com.lzz.driver.SeleniumDrive -439  [main] ERROR com.lzz.driver.SeleniumDrive  - 截图失败！！

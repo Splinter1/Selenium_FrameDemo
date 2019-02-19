@@ -8,3 +8,56 @@
 2019-02-13 16:46:45,668 INFO main [com.lzz.actions.Actions]info(line:34)随机数为38p1R
 2019-02-13 17:01:09,656 INFO main [com.lzz.actions.Actions]info(line:34)随机数为I86i2
 2019-02-13 17:01:20,571 INFO main [com.lzz.actions.Actions]info(line:34)当前时间为：19-2-13 下午5:01
+2019-02-18 11:44:28,404 INFO main [com.lzz.driver.SeleniumDrive]info(line:34)打开网站https://www.baidu.com/
+2019-02-18 11:45:16,285 INFO main [com.lzz.driver.SeleniumDrive]info(line:34)打开网站https://www.baidu.com/
+2019-02-18 11:45:16,600 INFO main [com.lzz.driver.SeleniumDrive]info(line:34)new folder successful
+2019-02-18 11:52:26,166 INFO main [com.lzz.driver.SeleniumDrive]info(line:34)打开网站https://www.baidu.com/
+2019-02-18 11:52:26,477 INFO main [com.lzz.driver.SeleniumDrive]info(line:34)new folder successful
+2019-02-18 12:00:15,224 INFO main [com.lzz.driver.SeleniumDrive]info(line:34)打开网站https://www.baidu.com/
+2019-02-18 12:00:15,542 INFO main [com.lzz.driver.SeleniumDrive]info(line:34)当前时间为：19-2-18 下午12:00
+2019-02-18 12:00:15,542 INFO main [com.lzz.driver.SeleniumDrive]info(line:34)new folder successful
+2019-02-18 12:00:15,543 INFO main [com.lzz.driver.SeleniumDrive]info(line:34)当前时间为：19-2-18 下午12:00
+2019-02-18 12:00:15,549 ERROR main [com.lzz.driver.SeleniumDrive]error(line:46)截图失败！！
+2019-02-18 12:32:35,521 INFO main [com.lzz.driver.SeleniumDrive]info(line:34)打开网站https://www.baidu.com/
+2019-02-18 12:32:35,847 INFO main [com.lzz.driver.SeleniumDrive]info(line:34)当前时间为：19-2-18 下午12:32
+2019-02-18 12:32:35,848 INFO main [com.lzz.driver.SeleniumDrive]info(line:34)new folder successful
+2019-02-18 12:32:35,853 ERROR main [com.lzz.driver.SeleniumDrive]error(line:46)截图失败！！
+2019-02-18 12:34:22,285 INFO main [com.lzz.driver.SeleniumDrive]info(line:34)打开网站https://www.baidu.com/
+2019-02-18 12:34:22,605 INFO main [com.lzz.driver.SeleniumDrive]info(line:34)当前时间为：19-2-18 下午12:34
+2019-02-18 12:34:22,605 INFO main [com.lzz.driver.SeleniumDrive]info(line:34)new folder successful
+2019-02-18 12:34:22,611 ERROR main [com.lzz.driver.SeleniumDrive]error(line:46)截图失败！！
+2019-02-18 13:18:30,269 INFO main [com.lzz.driver.SeleniumDrive]info(line:34)打开网站https://www.baidu.com/
+2019-02-18 13:18:30,596 INFO main [com.lzz.driver.SeleniumDrive]info(line:34)当前时间为：19-2-18 下午1:18
+2019-02-18 13:18:30,597 INFO main [com.lzz.driver.SeleniumDrive]info(line:34)new folder successful
+2019-02-18 13:18:30,604 ERROR main [com.lzz.driver.SeleniumDrive]error(line:46)截图失败！！
+2019-02-18 13:20:57,860 INFO main [com.lzz.driver.SeleniumDrive]info(line:34)打开网站https://www.baidu.com/
+2019-02-18 13:20:58,299 INFO main [com.lzz.driver.SeleniumDrive]info(line:34)当前时间为：19-2-18 下午1:20
+2019-02-18 13:20:58,300 INFO main [com.lzz.driver.SeleniumDrive]info(line:34)new folder successful
+2019-02-18 13:20:58,307 ERROR main [com.lzz.driver.SeleniumDrive]error(line:46)截图失败！！
+2019-02-18 13:22:58,977 INFO main [com.lzz.driver.SeleniumDrive]info(line:34)打开网站https://www.baidu.com/
+2019-02-18 13:22:59,683 INFO main [com.lzz.driver.SeleniumDrive]info(line:34)new folder successful
+2019-02-18 13:28:50,304 INFO main [com.lzz.driver.SeleniumDrive]info(line:34)打开网站https://www.baidu.com/
+2019-02-18 13:28:50,701 INFO main [com.lzz.driver.SeleniumDrive]info(line:34)当前时间为：19-2-18 下午1:28
+2019-02-18 13:28:50,702 INFO main [com.lzz.driver.SeleniumDrive]info(line:34)new folder successful
+2019-02-18 13:28:50,743 ERROR main [com.lzz.driver.SeleniumDrive]error(line:46)截图失败！！
+2019-02-18 16:02:39,371 INFO main [com.lzz.driver.SeleniumDrive]info(line:34)打开网站https://www.baidu.com/
+2019-02-18 16:23:14,593 INFO main [com.lzz.driver.SeleniumDrive]info(line:34)打开网站https://www.baidu.com/
+2019-02-18 16:23:15,601 INFO main [com.lzz.testng.TestResultListener]onTestSuccess(line:42)getText Success
+2019-02-18 16:23:15,603 INFO main [com.lzz.testng.TestResultListener]onFinish(line:60)PassedTests = getText
+2019-02-18 16:25:01,076 INFO main [com.lzz.driver.SeleniumDrive]info(line:34)打开网站https://www.baidu.com/
+2019-02-18 16:25:11,343 INFO main [com.lzz.testng.TestngRetry]retry(line:33)Retry for [getText] on class [com.lzz.actions.actionsTest] Retry 1 times
+2019-02-18 16:25:11,634 INFO main [com.lzz.driver.SeleniumDrive]info(line:34)new folder successful
+2019-02-18 16:25:11,650 INFO main [com.lzz.testng.TestResultListener]onTestSkipped(line:36)getText Skipped
+2019-02-18 16:25:11,651 INFO main [com.lzz.testng.TestResultListener]onTestStart(line:48)getText Start
+2019-02-18 16:25:14,487 INFO main [com.lzz.driver.SeleniumDrive]info(line:34)打开网站https://www.baidu.com/
+2019-02-18 16:25:24,733 INFO main [com.lzz.testng.TestngRetry]retry(line:33)Retry for [getText] on class [com.lzz.actions.actionsTest] Retry 2 times
+2019-02-18 16:25:25,006 INFO main [com.lzz.driver.SeleniumDrive]info(line:34)new folder successful
+2019-02-18 16:25:25,008 INFO main [com.lzz.testng.TestResultListener]onTestSkipped(line:36)getText Skipped
+2019-02-18 16:25:25,008 INFO main [com.lzz.testng.TestResultListener]onTestStart(line:48)getText Start
+2019-02-18 16:25:27,785 INFO main [com.lzz.driver.SeleniumDrive]info(line:34)打开网站https://www.baidu.com/
+2019-02-18 16:25:38,355 INFO main [com.lzz.driver.SeleniumDrive]info(line:34)new folder successful
+2019-02-18 16:25:38,356 INFO main [com.lzz.testng.TestResultListener]onTestFailure(line:29)getText Failure
+2019-02-18 16:25:38,358 INFO main [com.lzz.testng.TestResultListener]onFinish(line:67)skipTest = getText
+2019-02-18 16:25:38,358 INFO main [com.lzz.testng.TestResultListener]onFinish(line:67)skipTest = getText
+2019-02-18 16:25:38,358 INFO main [com.lzz.testng.TestResultListener]onFinish(line:81)failedTest = getText
+2019-02-18 16:25:38,359 INFO main [com.lzz.testng.TestResultListener]onFinish(line:104)Remove repeat Fail Test: getText

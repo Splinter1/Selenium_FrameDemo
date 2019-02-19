@@ -1,14 +1,11 @@
 package com.lzz.actions;
 
 import com.lzz.driver.SeleniumDrive;
-import com.lzz.find.WebElementUtils;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
 import org.testng.annotations.Test;
 
 import java.util.ArrayList;
-import java.util.List;
 
 public class actionsTest {
 
@@ -28,7 +25,7 @@ public class actionsTest {
         SeleniumDrive.get("https://www.baidu.com/");
 
         //List<WebElement> links = WebElementUtils.findElements(By.className("mnav"));
-        ArrayList list = Actions.getTexts(By.className("mnav"));
+        ArrayList list = Actions.getTexts(By.className("mnav1"));
 
         for(int i = 0;i < list.size(); i ++){
             System.out.println(list.get(i));
