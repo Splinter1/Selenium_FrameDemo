@@ -1,5 +1,6 @@
 package com.lzz.actions;
 
+import com.lzz.driver.AppDriver;
 import com.lzz.driver.SeleniumDrive;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
@@ -7,39 +8,29 @@ import org.testng.annotations.Test;
 
 import java.util.ArrayList;
 
-public class actionsTest {
+public class actionsTest extends AppDriver{
+    @Test(priority = 1)
+    public void setup()throws Exception{
+        driver = AppDriver.start();
+        }
 
-    @Test
+    @Test(priority = 2)
     public void testClick()throws Exception{
         SeleniumDrive.open("chrome");
         SeleniumDrive.get("https://www.baidu.com/");
+    }
+
+    @Test(priority = 3)
+    public void AppClick()throws Exception{
+        AppActions.click(By.id("com.galaxyentertainment.gpcmobile:id/ok"));
+        Thread.sleep(1000);
+        ClickXY.clickTimes(5);
+    }
+
+    @Test(priority = 4)
+    public void doubleClickTest()throws Exception {
         Actions.sendKeys(By.id("kw"),"测试");
         Actions.click(By.id("su"));
-        Thread.sleep(3000);
-        SeleniumDrive.closedAll();
-    }
-
-    @Test
-    public void getText()throws Exception{
-        SeleniumDrive.open("chrome");
-        SeleniumDrive.get("https://www.baidu.com/");
-
-        //List<WebElement> links = WebElementUtils.findElements(By.className("mnav"));
-        ArrayList list = Actions.getTexts(By.className("mnav1"));
-
-        for(int i = 0;i < list.size(); i ++){
-            System.out.println(list.get(i));
-        }
-        SeleniumDrive.closedAll();
-    }
-
-    @Test
-    public void doubleClickTest()throws Exception{
-        WebDriver driver = SeleniumDrive.open("chrome");
-        SeleniumDrive.get("https://www.baidu.com/");
-
-        Actions.doubleClick(driver,By.id("su"));
-        Thread.sleep(3000);
         SeleniumDrive.closedAll();
     }
 }

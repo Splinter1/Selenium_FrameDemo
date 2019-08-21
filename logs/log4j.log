@@ -61,3 +61,61 @@
 2019-02-18 16:25:38,358 INFO main [com.lzz.testng.TestResultListener]onFinish(line:67)skipTest = getText
 2019-02-18 16:25:38,358 INFO main [com.lzz.testng.TestResultListener]onFinish(line:81)failedTest = getText
 2019-02-18 16:25:38,359 INFO main [com.lzz.testng.TestResultListener]onFinish(line:104)Remove repeat Fail Test: getText
+2019-08-21 15:39:47,187 INFO main [com.lzz.driver.SeleniumDrive]info(line:34)打开网站https://www.baidu.com/
+2019-08-21 15:39:57,358 INFO main [com.lzz.testng.TestngRetry]retry(line:33)Retry for [getText] on class [com.lzz.actions.actionsTest] Retry 1 times
+2019-08-21 15:39:57,908 INFO main [com.lzz.driver.SeleniumDrive]info(line:34)new folder successful
+2019-08-21 15:39:58,208 INFO main [com.lzz.testng.TestResultListener]onTestSkipped(line:36)getText Skipped
+2019-08-21 15:39:58,209 INFO main [com.lzz.testng.TestResultListener]onTestStart(line:48)getText Start
+2019-08-21 15:40:03,603 INFO main [com.lzz.driver.SeleniumDrive]info(line:34)打开网站https://www.baidu.com/
+2019-08-21 15:40:16,277 INFO main [com.lzz.testng.TestngRetry]retry(line:33)Retry for [getText] on class [com.lzz.actions.actionsTest] Retry 2 times
+2019-08-21 15:40:28,347 INFO main [com.lzz.testng.TestResultListener]onFinish(line:67)skipTest = getText
+2019-08-21 15:40:28,347 INFO main [com.lzz.testng.TestResultListener]onFinish(line:67)skipTest = getText
+2019-08-21 15:44:04,915 INFO main [com.lzz.driver.SeleniumDrive]info(line:34)打开网站https://www.baidu.com/
+2019-08-21 15:44:09,444 INFO main [com.lzz.testng.TestResultListener]onTestSuccess(line:42)doubleClickTest Success
+2019-08-21 15:44:09,445 INFO main [com.lzz.testng.TestResultListener]onTestStart(line:48)setup Start
+2019-08-21 15:44:40,039 INFO main [com.lzz.testng.TestngRetry]retry(line:33)Retry for [setup] on class [com.lzz.actions.actionsTest] Retry 1 times
+2019-08-21 15:44:40,050 INFO main [com.lzz.testng.TestResultListener]onTestStart(line:48)setup Start
+2019-08-21 16:10:20,905 INFO main [com.lzz.driver.SeleniumDrive]info(line:34)打开网站https://www.baidu.com/
+2019-08-21 16:10:21,032 INFO main [com.lzz.testng.TestResultListener]onTestSuccess(line:42)testClick Success
+2019-08-21 16:10:21,032 INFO main [com.lzz.testng.TestResultListener]onTestStart(line:48)AppClick Start
+2019-08-21 16:10:36,628 INFO main [com.lzz.testng.TestngRetry]retry(line:33)Retry for [AppClick] on class [com.lzz.actions.actionsTest] Retry 1 times
+2019-08-21 16:10:37,034 INFO main [com.lzz.driver.SeleniumDrive]info(line:34)new folder successful
+2019-08-21 16:10:37,109 INFO main [com.lzz.testng.TestResultListener]onTestSkipped(line:36)AppClick Skipped
+2019-08-21 16:10:37,110 INFO main [com.lzz.testng.TestResultListener]onTestStart(line:48)AppClick Start
+2019-08-21 16:11:28,880 INFO main [com.lzz.driver.SeleniumDrive]info(line:34)打开网站https://www.baidu.com/
+2019-08-21 16:11:28,883 INFO main [com.lzz.testng.TestResultListener]onTestSuccess(line:42)testClick Success
+2019-08-21 16:11:28,884 INFO main [com.lzz.testng.TestResultListener]onTestStart(line:48)AppClick Start
+2019-08-21 16:12:03,209 INFO main [com.lzz.driver.SeleniumDrive]info(line:34)打开网站https://www.baidu.com/
+2019-08-21 16:12:03,212 INFO main [com.lzz.testng.TestResultListener]onTestSuccess(line:42)testClick Success
+2019-08-21 16:12:03,213 INFO main [com.lzz.testng.TestResultListener]onTestStart(line:48)AppClick Start
+2019-08-21 16:12:23,208 INFO main [com.lzz.testng.TestResultListener]onTestSuccess(line:42)AppClick Success
+2019-08-21 16:12:23,209 INFO main [com.lzz.testng.TestResultListener]onTestStart(line:48)doubleClickTest Start
+2019-08-21 16:12:23,460 INFO main [com.lzz.testng.TestngRetry]retry(line:33)Retry for [doubleClickTest] on class [com.lzz.actions.actionsTest] Retry 1 times
+2019-08-21 16:12:23,744 INFO main [com.lzz.driver.SeleniumDrive]info(line:34)new folder successful
+2019-08-21 16:12:23,758 INFO main [com.lzz.testng.TestResultListener]onTestSkipped(line:36)doubleClickTest Skipped
+2019-08-21 16:12:23,759 INFO main [com.lzz.testng.TestResultListener]onTestStart(line:48)doubleClickTest Start
+2019-08-21 16:12:23,833 INFO main [com.lzz.testng.TestngRetry]retry(line:33)Retry for [doubleClickTest] on class [com.lzz.actions.actionsTest] Retry 2 times
+2019-08-21 16:12:24,105 INFO main [com.lzz.driver.SeleniumDrive]info(line:34)new folder successful
+2019-08-21 16:12:24,109 INFO main [com.lzz.testng.TestResultListener]onTestSkipped(line:36)doubleClickTest Skipped
+2019-08-21 16:12:24,110 INFO main [com.lzz.testng.TestResultListener]onTestStart(line:48)doubleClickTest Start
+2019-08-21 16:12:24,492 INFO main [com.lzz.driver.SeleniumDrive]info(line:34)new folder successful
+2019-08-21 16:12:24,497 INFO main [com.lzz.testng.TestResultListener]onTestFailure(line:29)doubleClickTest Failure
+2019-08-21 16:12:24,498 INFO main [com.lzz.testng.TestResultListener]onFinish(line:60)PassedTests = AppClick
+2019-08-21 16:12:24,500 INFO main [com.lzz.testng.TestResultListener]onFinish(line:60)PassedTests = setup
+2019-08-21 16:12:24,500 INFO main [com.lzz.testng.TestResultListener]onFinish(line:60)PassedTests = testClick
+2019-08-21 16:12:24,500 INFO main [com.lzz.testng.TestResultListener]onFinish(line:67)skipTest = doubleClickTest
+2019-08-21 16:12:24,500 INFO main [com.lzz.testng.TestResultListener]onFinish(line:67)skipTest = doubleClickTest
+2019-08-21 16:12:24,500 INFO main [com.lzz.testng.TestResultListener]onFinish(line:81)failedTest = doubleClickTest
+2019-08-21 16:12:24,500 INFO main [com.lzz.testng.TestResultListener]onFinish(line:104)Remove repeat Fail Test: doubleClickTest
+2019-08-21 16:16:16,326 INFO main [com.lzz.driver.SeleniumDrive]info(line:34)打开网站https://www.baidu.com/
+2019-08-21 16:16:16,328 INFO main [com.lzz.testng.TestResultListener]onTestSuccess(line:42)testClick Success
+2019-08-21 16:16:16,329 INFO main [com.lzz.testng.TestResultListener]onTestStart(line:48)AppClick Start
+2019-08-21 16:16:35,067 INFO main [com.lzz.testng.TestResultListener]onTestSuccess(line:42)AppClick Success
+2019-08-21 16:16:35,068 INFO main [com.lzz.testng.TestResultListener]onTestStart(line:48)doubleClickTest Start
+2019-08-21 16:16:35,211 INFO main [com.lzz.driver.SeleniumDrive]info(line:34)输入文本：测试
+2019-08-21 16:16:40,332 INFO main [com.lzz.driver.SeleniumDrive]info(line:34)点击By.id: su
+2019-08-21 16:16:41,510 INFO main [com.lzz.testng.TestResultListener]onTestSuccess(line:42)doubleClickTest Success
+2019-08-21 16:16:41,511 INFO main [com.lzz.testng.TestResultListener]onFinish(line:60)PassedTests = doubleClickTest
+2019-08-21 16:16:41,511 INFO main [com.lzz.testng.TestResultListener]onFinish(line:60)PassedTests = AppClick
+2019-08-21 16:16:41,511 INFO main [com.lzz.testng.TestResultListener]onFinish(line:60)PassedTests = setup
+2019-08-21 16:16:41,511 INFO main [com.lzz.testng.TestResultListener]onFinish(line:60)PassedTests = testClick
